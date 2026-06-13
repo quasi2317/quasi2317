@@ -1,12 +1,12 @@
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Quasi2317)
+我是Quasi2317，大三电气工程专业电力系统方向在读。
 
 <div>
-  <img src="img/111319418_p1.jpg" alt="centered image" width="300"/>
+  <img src="img/quasi2317.png" alt="centered image" width="300"/>
 </div>
 
 
-## 📈 GitHub Activity Graph:
+## 📈 GitHub数值，曾上过魔王C+hhh
 
 <table>
   <tr>
@@ -18,11 +18,6 @@
     </th>
   </tr>
 </table>
+you are the
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quasi2317&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=quasi2317's%20Contribution%20Graph" alt="GitHub Activity Graph" width="100%"/>
-</div>
-
-## 🧑‍🤝‍🧑 Visitors
-
-![Visitor Count](https://count.getloli.com/get/@:quasi2317)
+![Visitor Count](https://count.getloli.com/get/@:quasi2317) th person to visit this page!
